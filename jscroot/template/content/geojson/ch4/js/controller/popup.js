@@ -1,7 +1,7 @@
 import { toLonLat } from "https://cdn.skypack.dev/ol/proj.js";
 import { toStringHDMS } from "https://cdn.skypack.dev/ol/coordinate.js";
 import { overlay, map, popupinfo, idmarker } from "../config/configpeta.js";
-import { clickpopup, urlPOSTGCF } from "../template/template.js";
+import { URLGeoJson, clickpopup, urlPOSTGCF } from "../template/template.js";
 import { insertMarker, deleteMarker } from "./marker.js";
 import {
   setInner,
