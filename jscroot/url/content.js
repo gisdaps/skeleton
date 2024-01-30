@@ -98,7 +98,7 @@ export function getURLContentJS(){
         case "map/ch3":
             return url.template.content+"geojson/ch3/js/main.js";
         case "map/ch4":
-            return url.template.content+"geojson/ch4/js/script.js";
+            return url.template.content+"geojson/ch4/js/main.js";
         case "notifications/geointersect":
             return url.template.content + "notifications/geointersect.html";
         case "notifications/geowithin":
