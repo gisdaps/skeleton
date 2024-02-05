@@ -1,4 +1,4 @@
-export let URLGeoJson = "https://asia-southeast2-daffaaudya.cloudfunctions.net/gisch3or";
+export let URLGeoJson = "https://asia-southeast2-daffaaudya.cloudfunctions.net/gis-gcf";
 export let tableTag = "tr";
 export let tableRowClass = "content is-small";
 export let tableTemplate = `
