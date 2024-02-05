@@ -1,5 +1,5 @@
 export let URLGeoJson =
-  "https://asia-southeast2-daffaaudya.cloudfunctions.net/gisch3or";
+  "https://asia-southeast2-daffaaudya.cloudfunctions.net/gis-gcf";
 export let urlPOSTGCF =
   "https://asia-southeast2-daffaaudya.cloudfunctions.net/gischp4or";
 export let tableTag = "tr";
